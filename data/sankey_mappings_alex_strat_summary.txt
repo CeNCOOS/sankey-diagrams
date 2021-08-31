@@ -1,0 +1,82 @@
+source,target,weight
+"Fishing Industry","Mobile Application",4
+"Mobile Application","HFR",1
+"Mobile Application","Gliders",1
+"Mobile Application","Satellite Products",1
+"Mobile Application","Models",1
+"Shellfish Growers","Port-lets",2
+"Shellfish Growers","Bulletins",2
+"Bulletins","HABMAP",1
+"Bulletins","Satellite Products",1
+"Bulletins","Models",1
+"Port-lets","OAH Network",1
+"Mobile Application","HFR",1
+"Curated Data View","Gliders",1
+"Recreational User","Mobile Application",1
+"Recreational User","Curated Data View",1
+"Curated Data View","Satellite Products",1
+"Curated Data View","Models",1
+"Tribes","Ecosystem Indicators",1
+"Ecosystem Indicators","Coastal Obs. Network",1
+"Ecosystem Indicators","OAH Network",1
+"Ecosystem Indicators","HABMAP",1
+"Ecosystem Indicators","Gliders",1
+"Ecosystem Indicators","Bio/Eco Monitoring",1
+"Curated Data View","Coastal Obs. Network",1
+"Curated Data View","OAH Network",1
+"Curated Data View","HABMAP",1
+"Curated Data View","Gliders",1
+"Curated Data View","Bio/Eco Monitoring",1
+"Interactive Exhibits","Coastal Obs. Network",1
+"Interactive Exhibits","OAH Network",1
+"Interactive Exhibits","HABMAP",1
+"Interactive Exhibits","Gliders",1
+"Interactive Exhibits","Bio/Eco Monitoring",1
+"Gliders","Temperature",1
+"Gliders","Salinity",1
+"Models","Wind",1
+"Models","Temperature",1
+"Models","Currents",1
+"Models","Phytoplankton Biomass",1
+"Models","Waves",1
+"Coastal Obs. Network","Temperature",1
+"Coastal Obs. Network","Salinity",1
+"Coastal Obs. Network","Phytoplankton Biomass",1
+"Coastal Obs. Network","Dissolved Oxygen",1
+"Coastal Obs. Network","pH",1
+"OAH Network","pH",1
+"OAH Network","pCO2",1
+"HABMAP","Phytoplankton Biomass",1
+"HABMAP","Nutrients",1
+"Bio/Eco Monitoring","Seabird Occurrence",1
+"Bio/Eco Monitoring","Marine Mammal Occurrence",1
+"Bio/Eco Monitoring","Zooplankton Biomass",1
+"Bio/Eco Monitoring","Phytoplankton Biomass",1
+"Bio/Eco Monitoring","Kelp Biomass",1
+"Satellite Products","Temperature",1
+"Satellite Products","Phytoplankton Biomass",1
+"Ocean Planners","Climate Indicators",1
+"Ocean Planners","Ecosystem Indicators",1
+"Sanctuaries","Port-lets",1
+"Sanctuaries","Dynamic Management Tools",1
+"Sanctuaries","Curated Data View",1
+"Sanctuaries","Climate Indicators",1
+"Sanctuaries","Ecosystem Indicators",1
+"HFR","Currents",1
+"Fisheries Planners","Climate Indicators",1
+"Fisheries Planners","Ecosystem Indicators",1
+"Fisheries Planners","Interactive Infographics",1
+"Fisheries Planners","Dynamic Management Tools",1
+"Fisheries Planners","Port-lets",1
+"Fisheries Planners","Interactive Exhibits",1
+"Dynamic Management Tools","Satellite Products",1
+"Dynamic Management Tools","Models",1
+"Dynamic Management Tools","Bio/Eco Monitoring",1
+"Interactive Exhibits","Models",1
+"Interactive Exhibits","Satellite Products",1
+"Interactive Exhibits","Bio/Eco Monitoring",1
+"Climate Indicators","Gliders",1
+"Climate Indicators","Coastal Obs. Network",1
+"Climate Indicators","Models",1
+"Interactive Infographics","Bio/Eco Monitoring",1
+"Interactive Infographics","Satellite Products",1

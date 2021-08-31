@@ -16,7 +16,7 @@ source,target
 "WCOFS nests","Salinity"
 "SFB SCHISM-CoSiNE","Salinity"
 "COAMPS","Salinity"
-"West Coast ROMS","Salinity"
+"West Coast ROMS-NEMURO","Salinity"
 "ACCESS","Salinity"
 "Animal Tagging","Salinity"
 "in kind - NCEP GFS","Sea level"
